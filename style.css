@@ -1,0 +1,23 @@
+body {
+	background: lightskyblue;
+}
+h1 {
+	font-size: 32px;
+	color: rgb(24, 58, 58);
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-size: 24px;
+	color: rgb(23, 37, 104);
+	line-height: 1.2;
+}
+
+.verse {
+	font-weight: 600;
+}
+
+.chorus {
+	font-style: italic;
+}
