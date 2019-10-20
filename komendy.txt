@@ -1,2 +1,2 @@
-npm install --save-dev autoprefixer-cli
-npm install --save-dev nu-html-checker
+autoprefixer-cli -o css/style.prefixed.css css/style.css
+nu-html-checker index.html
